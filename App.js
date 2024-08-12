@@ -232,7 +232,7 @@ const App = () => {
     }
   }, []);
 
-  //////////// Route
+  ///////// Route
   const Route = ({isFatch}) => {
     if (isFatch) {
       return (
